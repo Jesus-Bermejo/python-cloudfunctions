@@ -6,7 +6,7 @@ GitHub: @juanviz
 
 Affiliation: Universidad Pontifica Comillas - ICAI
 
-User: Jesús
+User: Jesús Bermejo
 
 
 This repository contains example Python code designed to run on Google Cloud Functions. It includes two sample functions: one triggered by Cloud Storage events and another that responds to HTTP requests.
